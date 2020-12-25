@@ -165,7 +165,7 @@ Wire Wire Line
 Wire Wire Line
 	4125 7250 4125 7200
 Wire Wire Line
-	2050 7250 3000 7250
+	2050 7250 2575 7250
 Wire Wire Line
 	3875 7200 3875 7250
 Connection ~ 3875 7250
@@ -236,8 +236,6 @@ Wire Wire Line
 	2700 1750 2375 1750
 Wire Wire Line
 	2375 1750 2375 1100
-Wire Wire Line
-	2375 1100 1650 1100
 Wire Wire Line
 	900  1100 900  1550
 Wire Wire Line
@@ -764,4 +762,40 @@ Wire Wire Line
 	4500 3950 5175 3950
 Wire Wire Line
 	4500 4050 5175 4050
+NoConn ~ 2700 1450
+NoConn ~ 2700 1550
+NoConn ~ 2700 2150
+NoConn ~ 2700 2250
+NoConn ~ 2700 2450
+NoConn ~ 2700 2550
+NoConn ~ 2700 3050
+NoConn ~ 2700 3150
+NoConn ~ 2700 3250
+NoConn ~ 2700 3350
+NoConn ~ 2700 3450
+NoConn ~ 2700 3850
+NoConn ~ 2700 3950
+NoConn ~ 2700 4050
+NoConn ~ 2700 4250
+NoConn ~ 4500 2450
+NoConn ~ 4500 1050
+NoConn ~ 4500 1150
+NoConn ~ 4500 1250
+NoConn ~ 4500 1350
+NoConn ~ 4500 1450
+NoConn ~ 4500 1550
+NoConn ~ 4500 2050
+NoConn ~ 4500 3350
+NoConn ~ 4500 3450
+NoConn ~ 4500 4550
+NoConn ~ 4500 4650
+Text GLabel 2700 1250 0    50   Input ~ 0
+BOOT
+Wire Wire Line
+	2575 7200 2575 7250
+Connection ~ 2575 7250
+Wire Wire Line
+	2575 7250 3000 7250
+Wire Wire Line
+	1650 1100 2375 1100
 $EndSCHEMATC
