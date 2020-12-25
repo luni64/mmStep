@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MicroMod)(type KiCad)(uri "$(KICAD_USER_LIBRARY)/footprints/sparkfun_MicroMod")(options "")(descr ""))
+  (lib (name myCon)(type KiCad)(uri ${KICAD_USER_LIBRARY}/footprints/Connectors)(options "")(descr ""))
+  (lib (name prj)(type KiCad)(uri ${KIPRJMOD}/artwork)(options "")(descr ""))
+)

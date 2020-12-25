@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name USB)(type Legacy)(uri "C:/Users/lutz/Google Drive/10 lunOptics/50 Projekte/KiCadLib/symbols/Connectors/DX07S016JA1R1500.lib")(options "")(descr ""))
+  (lib (name MicroModCarrier-rescue)(type Legacy)(uri ${KIPRJMOD}/MicroModCarrier-rescue.lib)(options "")(descr ""))
+  (lib (name TeensyDIY)(type Legacy)(uri ${KICAD_USER_LIBRARY}/symbols/Teensy/TeensyDIY.lib)(options "")(descr "")(disabled))
+  (lib (name SparkFun-MicroMod)(type Legacy)(uri ${KICAD_USER_LIBRARY}/symbols/MicroMod/SparkFun-MicroMod.lib)(options "")(descr ""))
+)
