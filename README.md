@@ -1,4 +1,4 @@
-<img src="Documentation/3d_top.jpg" alt="3d top" height="300" > <img src="Documentation/3d_bottom.jpg" alt="3d bottom" height="300" >
+<img src="Documentation/3d_top.jpg" alt="3d top" height="250" > <img src="Documentation/3d_bottom.jpg" alt="3d bottom" height="250" >
 
 # mmStep
 Stepper driver board compatible to the SparkFun MicroMod system for DRV8825, A4988 etc. driver boards.
